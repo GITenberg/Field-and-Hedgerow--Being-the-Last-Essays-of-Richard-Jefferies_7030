@@ -1,0 +1,35 @@
+_repo: Field-and-Hedgerow--Being-the-Last-Essays-of-Richard-Jefferies_7030
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jefferies, Richard
+    alias: Jefferies, John Richard
+    birthdate: 1848
+    deathdate: 1887
+    gutenberg_agent_id: '229'
+    url: http://www.gutenberg.org/2009/agents/229
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Jefferies
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7030'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'England -- Description and travel'
+- !lcsh 'Natural history'
+- GITenberg
+tableOfContents: 'Hours of spring -- Nature and books -- The July grass -- Winds of
+  heaven -- The country Sunday -- The country-side: Sussex -- Swallow-time -- Buckhurst
+  Park -- House-martins -- Among the nuts -- Walks in the wheat-fields -- Just before
+  winter -- Locality and nature -- Country places -- Field words and ways -- Cottage
+  ideas -- April gossip -- Some April insects -- The time of year -- Mixed days of
+  May and December -- The makers of summer -- Steam on country roads -- Field sports
+  in art: the mammoth hunter -- Birds'' nests -- Nature in the Louvre -- Summer in
+  Somerset -- An English deer-park -- My old village -- My chaffinch.'
+title: 'Field and Hedgerow: Being the Last Essays of Richard Jefferies'
+url: http://www.gutenberg.org/ebooks/7030
